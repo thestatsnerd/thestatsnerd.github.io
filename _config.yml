@@ -8,10 +8,10 @@
 # Site Settings
 theme					 : minimal-mistakes-jekyll
 locale                   : "en"
-title                    : "Grid-Searched"
+title                    : "The Stats Nerd"
 title_separator          : "|"
-name                     : "Timothy James Dobbins"
-description              : "A machine learning blog."
+name                     : "Chris Morgan"
+description              : "A blog about things."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -21,9 +21,9 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # 
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # 
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Timothy James Dobbins"
-  avatar           : https://avatars0.githubusercontent.com/u/8451865
-  bio              : "Machine learning engineer"
+  name             : "Chris Morgan"
+  avatar           : https://media.licdn.com/dms/image/C5603AQFAe8nMdIq5Mw/profile-displayphoto-shrink_200_200/0?e=1538611200&v=beta&t=EGDCPmeO9bvkOFKugJgsXcPNzvCCXsbQlCP8eLv_sCA
+  bio              : "Statistician"
   location         : "Nashville, TN"
   email            :
   uri              :
@@ -90,18 +90,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : tmthyjames
+  github           : thestatsnerd
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : tim-dobbins/
+  linkedin         : morganchristopher/
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : TmthyDobbins
+  twitter          : thestatsnerd
   vine             :
   weibo            :
   xing             :
